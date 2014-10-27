@@ -28,7 +28,6 @@ This documentation covers the current released version of Ansible (1.7.2) and al
    playbooks
    playbooks_special_topics
    modules
-   modules_by_category
    guides
    developing
    tower
